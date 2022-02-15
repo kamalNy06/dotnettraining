@@ -1,0 +1,9 @@
+D:\Kamal\.NET\AgentProject\AgentProject\AgentDAL\bin\Debug\AgentDAL.dll
+D:\Kamal\.NET\AgentProject\AgentProject\AgentDAL\bin\Debug\AgentDAL.pdb
+D:\Kamal\.NET\AgentProject\AgentProject\AgentDAL\bin\Debug\AgentEntity.dll
+D:\Kamal\.NET\AgentProject\AgentProject\AgentDAL\obj\Debug\AgentDAL.csproj.CoreCompileInputs.cache
+D:\Kamal\.NET\AgentProject\AgentProject\AgentDAL\obj\Debug\AgentDAL.csproj.CopyComplete
+D:\Kamal\.NET\AgentProject\AgentProject\AgentDAL\obj\Debug\AgentDAL.dll
+D:\Kamal\.NET\AgentProject\AgentProject\AgentDAL\obj\Debug\AgentDAL.pdb
+D:\Kamal\.NET\AgentProject\AgentProject\AgentDAL\obj\Debug\AgentDAL.csproj.AssemblyReference.cache
+D:\Kamal\.NET\AgentProject\AgentProject\AgentDAL\bin\Debug\AgentEntity.pdb
